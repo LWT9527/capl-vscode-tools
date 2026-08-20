@@ -1,2 +1,2 @@
 # capl-vscode-tools
-vscode中的capl插件
+在vscode中，编辑CAPL脚本的小插件
